@@ -4,7 +4,7 @@
 
 🎓 CSE Student @ IIIT Ranchi
 
-💻 Currently Learning
+💻 Current Tech Stack
 - Python
 - C++
 - NumPy
