@@ -1,49 +1,41 @@
-## # Hi there, I'm Jasraj 👋
+# Hi there, I'm Jasraj 👋
 
 ## 🚀 About Me
 
-🎓 CSE Student @ IIIT Ranchi
+CSE Student focused on **Data Analytics, Python, SQL, Power BI, and Machine Learning**.
 
-💻 Current Tech Stack
-- Python
-- C++
-- NumPy
-- Pandas
-- Data Structures & Algorithms
+I enjoy building practical projects, analyzing data, and strengthening my problem-solving skills through DSA and Competitive Programming.
 
-🎯 Current Focus
-- Building Real Python Projects
-- Competitive Programming
+---
+
+## 🎯 Current Focus
+
+- Data Analytics
 - Machine Learning
+- DSA & Competitive Programming
+- Building practical Python and data projects
 
 ---
 
 ## 🛠 Tech Stack
 
 - Python
-- C++
-- Git
-- GitHub
-- NumPy
+- SQL
+- Power BI
+- Excel
 - Pandas
+- NumPy
+- Matplotlib
+- Seaborn
+- Git & GitHub
+- C++
 
 ---
 
 ## 📂 Featured Projects
 
-- 🎓 Student Record Management System (C++)
-- 📝 Text Analyzer (C++)
-- 🎮 Console Game Suite (C++)
+- 📊 [OLA Power BI Dashboard](https://github.com/jasraj00100/OLA-PowerBI-Dashboard)
+- 📦 [Inventory Management System](https://github.com/jasraj00100/Inventory-Management-System-V-1.0)
+- 🎓 [Student Record Management System](https://github.com/jasraj00100/Student-Record-Management-System)
 
----
-
-## 🎯 2026 Goals
-
-- Build 25+ High Quality Projects
-- Master Machine Learning
-- Solve 1000+ DSA Problems
-- Contribute to Open Source
-
----
-
-⭐ Building every day. Learning every day.
+⭐ Building, learning, and improving every day.
