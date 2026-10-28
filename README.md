@@ -7,10 +7,11 @@ I'm a Computer Science student focused on **Data Analytics, SQL, Python, and Bus
 ## 🚀 Featured Projects
 
 ### 📊 Lending Club Loan Portfolio Analysis
-An analytics project using MySQL and Power BI to explore loan portfolio performance, borrower risk, loan characteristics, financial metrics, and geographic trends.
 
-- **Tools:** MySQL, Power BI, SQL
-- **Includes:** 16 SQL queries, six dashboard pages, and report screenshots
+A data analytics project using MySQL and Power BI to analyze loan portfolio performance, borrower risk, loan characteristics, financial performance, and geographic trends.
+
+- **Tools:** MySQL, SQL, Power BI
+- **Includes:** SQL analysis, six-page interactive dashboard, and visual report screenshots
 - [View Repository](https://github.com/jasraj00100/Lending-Club-Analysis)
 - [Download Power BI Dashboard (.pbix)](https://github.com/jasraj00100/Lending-Club-Analysis/releases/tag/v1.0.0)
 
